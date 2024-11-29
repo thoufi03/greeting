@@ -1,0 +1,17 @@
+{
+    "English": {
+      "welcomeMessage": "Welcome!",
+      "greeting": "Hello, User!",
+      "home": "Welcome ALL"
+    },
+    "French": {
+      "welcomeMessage": "خوش آمدید!",
+      "greeting": "سلام کاربر!",
+      "home": "Welcome ALL in farsi"
+    },
+    "Spanish": {
+      "welcomeMessage": "¡Bienvenido!",
+      "greeting": "Hola, Usuario!",
+      "home": "Welcome ALL in spanish"
+    }
+}

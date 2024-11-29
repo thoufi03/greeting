@@ -1,0 +1,12 @@
+<template>
+    <h1>Parent Component</h1>
+    <lightning-combobox
+        name="languagePicker"
+        label="Select Language"
+        value={selectedLanguage}
+        options={languageOptions}
+        onchange={handleLanguageChange}>
+    </lightning-combobox>
+
+        <c-child-greeting greeting={selectedLanguage}></c-child-greeting>
+</template>
